@@ -31,6 +31,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.facebook.react:react-native:+'
+    classpath('com.facebook.react:react-native-gradle-plugin')
 }
   
